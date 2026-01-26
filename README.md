@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a CS student<br>I am learning <br>
+CS student focused on building strong fundamentals in C, C++ and problem-solving. 
+Currently learning full-stack web development (Node.js, React, MySQL) and exploring system-level concepts. 
+Driven to improve logic, consistency, and real-world coding skills.
+<br>
 
 
 ## 🌐 Socials:
