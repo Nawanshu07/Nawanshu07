@@ -1,16 +1,16 @@
-## Hi there 👋
+💫 About Me:
 
-<!--
-**Nawanshu07/Nawanshu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS student
+I am learning
+🌐 Socials:
 
-Here are some ideas to get you started:
+Discord Instagram LinkedIn email
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C C++ HTML5 CSS3 Python NodeJS React nVIDIA Steam Portfolio Express.js MySQL Matplotlib Git
+📊 GitHub Stats:
+
+
+
+
+
