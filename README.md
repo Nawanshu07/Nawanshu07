@@ -27,6 +27,5 @@ CS/BCA student focused on building strong fundamentals in **C, C++, and Python**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
+------------
 ⭐️ Thanks for stopping by — feel free to check out my pinned repos to see what I've been building.
