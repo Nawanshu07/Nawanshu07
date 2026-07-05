@@ -11,3 +11,8 @@ Fun Facts:
  * I love reading novels
  * Python is the GOAT
  * **Hobbies** : Anime , building cool stuff
+
+Tools:
+  * **VS code**
+  * **Antigravity IDE**(for vibe coding and web development)
+  * **GIT and GITHUB**
