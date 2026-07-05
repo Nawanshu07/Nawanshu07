@@ -6,7 +6,6 @@ CS/BCA student focused on building strong fundamentals in **C, C++, and Python**
 
 - 🎓 BCA student, building strong fundamentals in C, C++, and Python
 - 🌐 Currently learning full-stack web development (HTML, CSS, JavaScript, Flask)
-- 🤖 Exploring AI/ML concepts — LLMs, RAG, embeddings, and applied GenAI
 - 🧠 Driven to improve logic, consistency, and real-world coding skills
 - 🛠️ I build practical projects to learn by doing, rather than just studying theory
 
