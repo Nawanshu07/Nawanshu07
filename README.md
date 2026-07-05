@@ -28,12 +28,6 @@ CS/BCA student focused on building strong fundamentals in **C, C++, and Python**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nawanshu07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Nawanshu07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawanshu07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ⭐️ Thanks for stopping by — feel free to check out my pinned repos to see what I've been building.
