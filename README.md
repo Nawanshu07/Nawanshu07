@@ -1,5 +1,5 @@
 ### Hello there 👋
-A CS Student by day ☼ and a Full-Stack Developer by night ☾
+A BCA Student by day ☼ and a Programmer by night ☾
 BCA Student learning web development and building practical projects.
 
  * ⚙️ I use daily: `.py`, `.c`, `.cpp`, `.js`, `.html`, `.css`
@@ -9,7 +9,8 @@ BCA Student learning web development and building practical projects.
 
 Fun Facts:
  * I love reading novels
- * Python is the GOAT
+ * Most productive after midnight.
+ * Powered by caffeine and compiler errors.
  * **Hobbies** : Anime , building cool stuff
 
 Tools:
