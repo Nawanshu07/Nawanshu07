@@ -14,5 +14,5 @@ Fun Facts:
 
 Tools:
   * **VS code**
-  * **Antigravity IDE**(for vibe coding and web development)
+  * **Antigravity IDE**
   * **GIT and GITHUB**
