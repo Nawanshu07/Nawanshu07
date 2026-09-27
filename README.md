@@ -10,7 +10,7 @@ Fun Facts:
  * I love reading novels
  * Most productive after midnight.
  * Powered by caffeine and compiler errors.
- * **Hobbies** : Anime , building cool stuff
+ * **Hobbies** : Anime , building cool stuff 
 
 Tools:
   * **VS code**
