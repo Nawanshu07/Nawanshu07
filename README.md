@@ -7,7 +7,7 @@ BCA Student learning web development and building practical projects.
  * 🛠️ Built: voice assistant , Music Player , Netflix Website Clone.
 
 Fun Facts:
- * I love reading novels
+ * I love reading novels 
  * Most productive after midnight.
  * Powered by caffeine and compiler errors.
  * **Hobbies** : Anime , building cool stuff 
