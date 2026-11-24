@@ -1,31 +1,18 @@
-<a href="https://nawanshu.dpdns.org">
-  <picture>
-    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/cover-mobile.svg">
-    <img src="./assets/cover.svg" alt="Nawanshu Sharma · BCA student in Alwar, India. Visit my portfolio." width="100%">
-  </picture>
-</a>
+### Hello there 👋
+A BCA Student by day ☼ and a Programmer by night ☾
+BCA Student learning web development and building practical projects.
 
-## Selected work
+ * ⚙️ I use daily: `.py`, `.c`, `.cpp`, `.js`, `.html`, `.css`
+ * 🌍 Currently exploring full-stack web development
+ * 🛠️ Built: voice assistant , Music Player , Netflix Website Clone.
 
-<a href="https://github.com/Nawanshu07/Chat-system">
-  <picture>
-    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/smalltalk-mobile.svg">
-    <img src="./assets/smalltalk.svg" alt="Smalltalk — private chats with live message delivery. React and Socket.IO." width="100%">
-  </picture>
-</a>
+Fun Facts:
+ * I love reading novels 
+ * Most productive after midnight.
+ * Powered by caffeine and compiler errors.
+ * **Hobbies** : Anime , building cool stuff 
 
-<a href="https://github.com/Nawanshu07/Voice-Assistant">
-  <picture>
-    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/voice-mobile.svg">
-    <img src="./assets/voice.svg" alt="Voice Assistant — voice commands for search and playback. Python and Gemini." width="100%">
-  </picture>
-</a>
-
-<a href="https://github.com/Nawanshu07/Music-Player">
-  <picture>
-    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/music-mobile.svg">
-    <img src="./assets/music.svg" alt="Music Player — a playlist you control from the terminal. Python and Pygame." width="100%">
-  </picture>
-</a>
-
-[More projects ↗](https://nawanshu.dpdns.org/work)　·　[About me](https://nawanshu.dpdns.org/about)　·　[Get in touch](https://nawanshu.dpdns.org/contact)
+Tools:
+  * **VS code**
+  * **Antigravity IDE**
+  * **GIT and GITHUB**
