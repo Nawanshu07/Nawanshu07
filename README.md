@@ -1,20 +1,31 @@
-![Nawanshu Sharma — BCA student by day. Programmer by night.](./assets/after-midnight.svg)
+<a href="https://nawanshu.dpdns.org">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/cover-mobile.svg">
+    <img src="./assets/cover.svg" alt="Nawanshu Sharma · BCA student in Alwar, India. Visit my portfolio." width="100%">
+  </picture>
+</a>
 
-I’m learning full-stack development one project at a time. In Smalltalk, I’ve been figuring out how messages travel between browsers. In Python, I build tools for the everyday stuff, like finding the same file hiding under two different names.
+## Selected work
 
-[Visit my portfolio ↗](https://nawanshu.dpdns.org)
+<a href="https://github.com/Nawanshu07/Chat-system">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/smalltalk-mobile.svg">
+    <img src="./assets/smalltalk.svg" alt="Smalltalk — private chats with live message delivery. React and Socket.IO." width="100%">
+  </picture>
+</a>
 
-## Selected projects
+<a href="https://github.com/Nawanshu07/Voice-Assistant">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/voice-mobile.svg">
+    <img src="./assets/voice.svg" alt="Voice Assistant — voice commands for search and playback. Python and Gemini." width="100%">
+  </picture>
+</a>
 
-**[Smalltalk](https://github.com/Nawanshu07/Chat-system)** · React, Express, Socket.IO  
-A private chat app. Messages arrive in real time, and the conversation is still there when you sign back in.
+<a href="https://github.com/Nawanshu07/Music-Player">
+  <picture>
+    <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/Nawanshu07/Nawanshu07/main/assets/music-mobile.svg">
+    <img src="./assets/music.svg" alt="Music Player — a playlist you control from the terminal. Python and Pygame." width="100%">
+  </picture>
+</a>
 
-**[File Forge](https://github.com/Nawanshu07/File-Forge)** · Python, Rich  
-A terminal tool for cleaning up messy folders. It finds duplicate files by comparing their contents, even when their names differ.
-
-**[Voice Assistant](https://github.com/Nawanshu07/Voice-Assistant)** · Python, Gemini  
-A voice-controlled assistant that can play music and automate everyday tasks.
-
-## After hours
-
-I work through [algorithm problems](https://github.com/Nawanshu07/Leet-Code), read novels, and watch anime. Most of my coding happens after midnight.
+[More projects ↗](https://nawanshu.dpdns.org/work)　·　[About me](https://nawanshu.dpdns.org/about)　·　[Get in touch](https://nawanshu.dpdns.org/contact)
